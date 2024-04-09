@@ -10,8 +10,8 @@ public class Onseason
 	
 		System.out.println("Price="+price);
 		
-		d=(price*80)/100;
-		System.out.println("Price after 40% On season discount"+d);
+		d=(price*60)/100;
+		System.out.println("Price after 40% On season discount="+d);
 	}
 	
 
